@@ -8,3 +8,4 @@
 let u = ['adsf:']
 1) Lazyvim starter https://github.comadfdsafjdskfjLazyVim/starter as nvchad's starter was inspired by Lazyvim's . It made a lot of things easier!
 # nvchad
+# allnvim
